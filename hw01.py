@@ -31,5 +31,5 @@ print("Your monthly payment is: ", round(payment,2))
 
 
 # Office Hours (leave these lines commented out, this isn't Python code)
-# Name of the TA who you visited in office hours:
-# Above TA's favorite color:
+# Name of the TA who you visited in office hours: Ahmed Shahkhan
+# Above TA's favorite color: Blue
